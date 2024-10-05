@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV files (optional)
+*.csv
+
+# VSCode settings
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Jupyter notebook output
+**/*.ipynb-output/
+
+# Logs and temporary files
+*.log
+*.tmp
